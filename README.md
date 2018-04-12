@@ -1,3 +1,3 @@
-== Script bash para raspar dados do Portal da Transparência ==
+==Script para raspar dados dos favorecidos do Portal da Transparência carioca==
 
-Baixe o repositório, torne o arquivo executável [ chmod +x baixa.sh ] e execute-o [ ./baixa.sh ]
+Baixe o repositório, torne o arquivo executável e execute-o
